@@ -1,6 +1,4 @@
-```m3u
 #EXTM3U
-
 # ALBANIA - GENERAL TV
 #EXTINF:-1 group-title="ALBANIA",Alpo TV
 https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
